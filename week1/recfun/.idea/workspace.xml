@@ -2,30 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22d0a84f-93a6-4757-afd2-6243eb6c0196" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../example/src/main/scala/Main.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_novocode_junit_interface_0_11_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_11_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun1-recfun-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun1-recfun.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../example/project/target/config-classes/$3b546a761f7004023f44$.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../example/project/target/config-classes/$3b546a761f7004023f44.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../example/project/target/config-classes/$3b546a761f7004023f44.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../example/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../example/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../example/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../example/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../example/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/../example/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/src/main/scala/Main.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../example/src/main/scala/Main.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/recfun.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/progfun1-recfun.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/progfun1-recfun.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$24c6de03da4d924d7895$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$24c6de03da4d924d7895.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$24c6de03da4d924d7895.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$33d7baadac2780578b14$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$33d7baadac2780578b14.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$33d7baadac2780578b14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ff228b8786dcd7815fc$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ff228b8786dcd7815fc.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ff228b8786dcd7815fc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$70c5f2e2ea86a879fbaf$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$70c5f2e2ea86a879fbaf.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$70c5f2e2ea86a879fbaf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9b0298a65b18af8d14b8$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9b0298a65b18af8d14b8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9b0298a65b18af8d14b8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d3a2ad94da2b09bb5c4e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d3a2ad94da2b09bb5c4e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d3a2ad94da2b09bb5c4e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d6c465d95dd97ca8771f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d6c465d95dd97ca8771f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d6c465d95dd97ca8771f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc87e7b8acbca47fb326$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc87e7b8acbca47fb326.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc87e7b8acbca47fb326.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ea98f60d6fdda58eb3e6$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ea98f60d6fdda58eb3e6.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ea98f60d6fdda58eb3e6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/recfun/RecFun.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/recfun/RecFun.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/recfun/RecFun$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/recfun/RecFun$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +61,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -57,6 +91,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration name="RecFun" type="Application" factoryName="Application" temporary="true">
@@ -92,22 +129,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1588628196980">
+    <state x="297" y="155" width="428" height="484" key="FileChooserDialogImpl" timestamp="1588632133568">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1588628196980" />
-    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1588628196979">
+    <state x="297" y="155" width="428" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1588632133568" />
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1588632850296">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1588628196979" />
-    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1588628196978">
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1588632850296" />
+    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1588632850295">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1588628196978" />
-    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1588628196980">
+    <state width="1324" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1588632850295" />
+    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1588632850292">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1588628196980" />
+    <state width="1324" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1588632850292" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1588632850295">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1588632850295" />
+    <state x="0" y="27" width="1028" height="741" key="SettingsEditor" timestamp="1588632144354">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="1028" height="741" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1588632144354" />
+    <state x="469" y="90" width="422" height="616" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588632100231">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="469" y="90" width="422" height="616" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1588632100231" />
     <state x="463" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588626101237">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
