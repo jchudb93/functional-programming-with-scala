@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/recfun.iml" filepath="$PROJECT_DIR$/.idea/recfun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/progfun1-recfun.iml" filepath="$PROJECT_DIR$/.idea/modules/progfun1-recfun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/progfun1-recfun-build.iml" filepath="$PROJECT_DIR$/.idea/modules/progfun1-recfun-build.iml" />
     </modules>
   </component>
 </project>
